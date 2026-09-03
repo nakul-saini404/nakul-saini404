@@ -14,7 +14,7 @@ I'm a Frontend Developer building **AI-powered web applications, scalable platfo
 - 🔭 Currently building full-stack ed-tech platforms — exam portals, blog systems, and marketing-site migrations
 - 🛠️ Full-stack toolkit: **React, Next.js, TypeScript, Supabase, Vercel serverless functions**
 - 🌱 Focused on clean architecture, performance, and SEO-first frontend builds
-- 📫 Reach me: **[Add your email]** · **[Add your LinkedIn]** · **[Add your portfolio URL]**
+- 📫 Reach me: **[nakul.saini404@gmail.com](mailto:nakul.saini404@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/nakul-saini404/)** · **[Add your portfolio URL]**
 
 <br/>
 
@@ -63,24 +63,8 @@ I'm a Frontend Developer building **AI-powered web applications, scalable platfo
 ### 🤝 Connect
 
 <p>
-  <a href="[Add your LinkedIn URL]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[Add your email]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[Add your portfolio URL]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nakul-saini404/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nakul.saini404@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-</div>## Hi there 👋
-
-<!--
-**nakul-saini404/nakul-saini404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
