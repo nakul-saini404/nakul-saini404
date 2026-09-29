@@ -14,7 +14,7 @@ I'm a Frontend Developer building **AI-powered web applications, scalable platfo
 - 🔭 Currently building full-stack ed-tech platforms — exam portals, blog systems, and marketing-site migrations
 - 🛠️ Full-stack toolkit: **React, Next.js, TypeScript, Supabase, Vercel serverless functions**
 - 🌱 Focused on clean architecture, performance, and SEO-first frontend builds
-- 📫 Reach me: **[nakul.saini404@gmail.com](mailto:nakul.saini404@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/nakul-saini404/)** · **[Add your portfolio URL]**
+- 📫 Reach me: **[nakul.saini404@gmail.com](mailto:nakul.saini404@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/nakul-saini404/)** ·
 
 <br/>
 
