@@ -49,10 +49,6 @@ I'm a Frontend Developer building **AI-powered web applications, scalable platfo
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nakul-saini404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakul-saini404&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nakul-saini404&theme=tokyonight&hide_border=true" />
